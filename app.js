@@ -1,5 +1,5 @@
 // Configuración de la fecha objetivo para la cuenta regresiva
-const countdownDate = new Date("Sep 10, 2024 23:59:59").getTime();
+const countdownDate = new Date("Sep 23, 2024 23:59:59").getTime();
 
 // Función para actualizar el cronómetro
 function updateCountdown() {
